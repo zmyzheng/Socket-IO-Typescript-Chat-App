@@ -2,6 +2,8 @@
 
 ![](chat.gif)
 
+![](WebsocketCommunication.png)
+
 # Running Server and Client locally
 ## Prerequisites
 

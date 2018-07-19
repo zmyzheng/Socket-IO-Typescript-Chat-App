@@ -1,6 +1,6 @@
 # Socket-IO-Typescript-Chat-App
 
-![](demo.gif)
+![](chat.gif)
 
 # Running Server and Client locally
 ## Prerequisites
